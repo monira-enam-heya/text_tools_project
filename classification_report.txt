@@ -1,0 +1,29 @@
+                                                                           precision    recall  f1-score   support
+
+                                                             Andy Beshear       1.00      0.00      0.00         2
+                                                                     Bide       1.00      0.00      0.00         5
+                                                            Cathy Russell       1.00      0.00      0.00        11
+                                                              David Mamet       1.00      0.00      0.00         2
+                                             Hes Not Fit To Be President        1.00      0.00      0.00         7
+                                                    Muhammad Abu Salimiya       1.00      0.50      0.67        44
+                                                                    Nikki       1.00      0.00      0.00         2
+                                                              Republicans       1.00      0.00      0.00         2
+                                                        Sleepy Creepy Joe       1.00      0.00      0.00         2
+ YEAR 2024 WILL BE ECONOMIC TURMOIL APRILMAY WILL BE CRITICAL BY MID 2024       1.00      0.00      0.00         1
+                                                                   gaffes       1.00      0.00      0.00         7
+                                                               hypocrites       1.00      0.00      0.00         4
+                                                               inaccurate       1.00      0.00      0.00         9
+                                                                     lies       1.00      0.00      0.00         2
+                                               multiple sources told CNN        1.00      0.00      0.00         6
+                                                  one RNC member said Tru       1.00      0.00      0.00         1
+                                                                   racist       1.00      0.00      0.00         4
+                                                                   rapist       1.00      0.00      0.00        11
+                                                                    right       1.00      0.00      0.00        19
+                                                                   stupid       1.00      0.00      0.00         4
+                                                                undermine       1.00      0.00      0.00         6
+                                                                       US       1.00      1.00      1.00        27
+                                                                       en       0.92      1.00      0.96      1571
+
+                                                                 accuracy                           0.93      1749
+                                                                macro avg       1.00      0.11      0.11      1749
+                                                             weighted avg       0.93      0.93      0.90      1749
